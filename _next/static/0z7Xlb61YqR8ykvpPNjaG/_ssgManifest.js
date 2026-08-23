@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdays\u002F[day]","\u002Fhighlights\u002F[area]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
